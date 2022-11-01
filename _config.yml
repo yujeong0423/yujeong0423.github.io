@@ -107,11 +107,11 @@ author:
   name             : "황유정"
   avatar           : "/assets/images/profile.jpg"
   bio              : "나의 포부를 써보자"
-#   email            : "hyjhms5879@gmail.com"
+  email            : "hyjhms5879@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "hyjhms5879@gmail.com"
+      # url: "hyjhms5879@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
