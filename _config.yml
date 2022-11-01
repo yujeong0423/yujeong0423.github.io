@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
+title                    : "황유정의 포트폴리오"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "yujeong0423"
@@ -104,11 +104,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  name             : "황유정"
+  avatar           : "/assets/images/profile.png"
+  bio              : "긍정적인 마인드로 주어진 일을 성실히 수행하는 황유정"
+  email            : "hyjhms5879@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
