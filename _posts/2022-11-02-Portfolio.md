@@ -16,6 +16,8 @@
 
 ![나의 역할과 기여도](https://user-images.githubusercontent.com/84081027/199451773-ba5ac73a-6a2b-4a01-940a-191e10aa40c5.png)
 
+![나의 역할과 기여도1](https://user-images.githubusercontent.com/84081027/199454367-04174156-5005-4473-8d5a-bc54568058a7.PNG)
+
 ![나의 역할과 기여도2](https://user-images.githubusercontent.com/84081027/199451788-cc02e960-509a-4463-a789-540522dbb099.png)
 
 ![나의 역할과 기여도3](https://user-images.githubusercontent.com/84081027/199451805-92496758-e0fe-4b89-bb77-51ebe3743240.png)
@@ -23,5 +25,7 @@
 ![나의 역할과 기여도4](https://user-images.githubusercontent.com/84081027/199451821-59b7b529-fc1a-408b-afc3-1ec659bae127.png)
 
 ![실행 예시 화면](https://user-images.githubusercontent.com/84081027/199452032-158b526e-e2ae-4a1c-9b30-187a684469d4.png)
+
+![프로젝트 리포지터리](https://user-images.githubusercontent.com/84081027/199456267-e5fc33b5-6109-4855-956a-928b0c5b06b6.PNG)
 
 ![완성물 접근 경로](https://user-images.githubusercontent.com/84081027/199452045-a03180a7-d821-4d0c-b0d0-65b7ebe23ca9.png)
