@@ -26,6 +26,9 @@
 
 ![실행 예시 화면](https://user-images.githubusercontent.com/84081027/199452032-158b526e-e2ae-4a1c-9b30-187a684469d4.png)
 
+실행 화면 링크
+[https://www.youtube.com/watch?app=desktop&v=Qz60cU4ZZSE&feature=youtu.be](https://www.youtube.com/watch?app=desktop&v=Qz60cU4ZZSE&feature=youtu.be)
+
 ![프로젝트 리포지터리](https://user-images.githubusercontent.com/84081027/199456267-e5fc33b5-6109-4855-956a-928b0c5b06b6.PNG)
 
 ![완성물 접근 경로](https://user-images.githubusercontent.com/84081027/199452045-a03180a7-d821-4d0c-b0d0-65b7ebe23ca9.png)
